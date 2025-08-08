@@ -15,4 +15,6 @@ Supreme （至尊研究院）
 
 GeneticChickengineering（基因工程）
 
+LogiTech (逻辑工艺)
+
 HaimanTech2（海曼科技院）
