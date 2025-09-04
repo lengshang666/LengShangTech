@@ -1,0 +1,303 @@
+rsc_LengShang_tech:
+  lateInit: false
+  type: nested
+  item:
+    material_type: skull_hash
+    material: 73112785f64d814103931505ace00048c087337785550c99a67449c392b39772
+    name: '&d&k12&r&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&d&k34&r'
+  tier: 0
+rsc_LengShang_sms:
+  lateInit: false
+  type: sub
+  item:
+    material_type: skull_hash
+    material: 20b13024045c5c0d6d2afb059ae9660f7ad020fd895bb75f64fcc02ddb07d327
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · &e说明书'
+  parent: rsc_LengShang_tech
+  tier: 1
+rsc_LengShang_2:
+  lateInit: false
+  type: button
+  item:
+    material: PINK_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 2
+rsc_LengShang_cl:
+  lateInit: false
+  type: sub
+  item:
+    material: NETHERITE_INGOT
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · &a材料'
+  parent: rsc_LengShang_tech
+  tier: 3
+rsc_LengShang_wq:
+  lateInit: false
+  type: sub
+  item:
+    material: NETHERITE_SWORD
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · &6武器'
+  parent: rsc_LengShang_tech
+  tier: 4
+rsc_LengShang_gj:
+  lateInit: false
+  type: sub
+  item:
+    material: NETHERITE_PICKAXE
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · &e工具'
+  parent: rsc_LengShang_tech
+  tier: 5
+rsc_LengShang_zb:
+  lateInit: false
+  type: sub
+  item:
+    material: NETHERITE_CHESTPLATE
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · &b装备'
+  parent: rsc_LengShang_tech
+  tier: 6
+rsc_LengShang_jq:
+  lateInit: false
+  type: sub
+  item:
+    material: CHISELED_DEEPSLATE
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · {#6699ff}机器'
+  parent: rsc_LengShang_tech
+  tier: 7
+rsc_LengShang_8:
+  lateInit: false
+  type: button
+  item:
+    material: PINK_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 8
+rsc_LengShang_LMJ:
+  lateInit: false
+  type: sub
+  item:
+    material: WRITABLE_BOOK
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · &a留&b名&c集'
+  parent: rsc_LengShang_tech
+  tier: 9
+rsc_LengShang_ys_ybclscq:
+  lateInit: false
+  type: sub
+  item:
+    material_type: skull_hash
+    material: bdc7913229cb2e898071b0c2bc8f13bd8dba69dbdccaf4d1da643ab726b925af
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · 压缩 · 原版材料生成器'
+  parent: rsc_LengShang_tech
+  tier: 10
+rsc_LengShang_11:
+  lateInit: false
+  type: button
+  item:
+    material: PURPLE_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 11
+rsc_LengShang_ys_hmkjy:
+  lateInit: false
+  type: sub
+  item:
+    material_type: skull_hash
+    material: 1421f1514da756c8c6c7c0b83a79265c26c9ece66b3bad8fbd94bd96d7040d7e
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · 压缩生成器 · &7&kll{#ffff00}海{#ccff00}曼{#88ff00}科技{#44ff00}院&7&kll'
+  parent: rsc_LengShang_tech
+  tier: 12
+rsc_LengShang_ys_hmkjy_jq:
+  lateInit: false
+  type: sub
+  item:
+    material_type: skull_hash
+    material: 1421f1514da756c8c6c7c0b83a79265c26c9ece66b3bad8fbd94bd96d7040d7e
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · 压缩机器 · &7&kll{#ffff00}海{#ccff00}曼{#88ff00}科技{#44ff00}院&7&kll'
+  parent: rsc_LengShang_tech
+  tier: 13
+rsc_LengShang_ys_wjtl:
+  lateInit: false
+  type: sub
+  item:
+    material: NETHER_STAR
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · 压缩 · &e&k1&r&b无尽&4贪婪&k1&r'
+  parent: rsc_LengShang_tech
+  tier: 14
+rsc_LengShang_15:
+  lateInit: false
+  type: button
+  item:
+    material: PURPLE_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 15
+rsc_LengShang_16:
+  lateInit: false
+  type: button
+  item:
+    material: PURPLE_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 16
+rsc_LengShang_17:
+  lateInit: false
+  type: button
+  item:
+    material: PURPLE_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 17
+rsc_LengShang_ybclscq:
+  lateInit: false
+  type: sub
+  item:
+    material_type: skull_hash
+    material: bdc7913229cb2e898071b0c2bc8f13bd8dba69dbdccaf4d1da643ab726b925af
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · 原版材料生成器'
+  parent: rsc_LengShang_tech
+  tier: 18
+rsc_LengShang_ys_nyclscq:
+  lateInit: false
+  type: sub
+  item:
+    material_type: skull_hash
+    material: bdc7913229cb2e898071b0c2bc8f13bd8dba69dbdccaf4d1da643ab726b925af
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · 压缩 · 粘液材料生成器'
+  parent: rsc_LengShang_tech
+  tier: 19
+rsc_LengShang_20:
+  lateInit: false
+  type: button
+  item:
+    material: BLUE_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 20
+rsc_LengShang_dl:
+  lateInit: false
+  type: sub
+  item:
+    material: ORANGE_GLAZED_TERRACOTTA
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · &5电力'
+  parent: rsc_LengShang_tech
+  tier: 21
+rsc_LengShang_zban:
+  lateInit: false
+  type: sub
+  item:
+    material: LEATHER_CHESTPLATE
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · &d装扮'
+  parent: rsc_LengShang_tech
+  tier: 22
+rsc_LengShang_bl:
+  lateInit: false
+  type: sub
+  item:
+    material: WHITE_CARPET
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · &e布料'
+  parent: rsc_LengShang_tech
+  tier: 23
+rsc_LengShang_mx:
+  lateInit: false
+  type: sub
+  item:
+    material: SKELETON_SKULL
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · &9模型'
+  parent: rsc_LengShang_tech
+  tier: 24
+rsc_LengShang_bq:
+  lateInit: false
+  type: sub
+  item:
+    material: CREEPER_HEAD
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · &c表情'
+  parent: rsc_LengShang_tech
+  tier: 25
+rsc_LengShang_26:
+  lateInit: false
+  type: button
+  item:
+    material: BLUE_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 26
+rsc_LengShang_nyclscq:
+  lateInit: false
+  type: sub
+  item:
+    material_type: skull_hash
+    material: bdc7913229cb2e898071b0c2bc8f13bd8dba69dbdccaf4d1da643ab726b925af
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · 粘液材料生成器'
+  parent: rsc_LengShang_tech
+  tier: 27
+rsc_LengShang_28:
+  lateInit: false
+  type: button
+  item:
+    material: RED_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 28
+rsc_LengShang_29:
+  lateInit: false
+  type: button
+  item:
+    material: RED_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 29
+rsc_LengShang_30:
+  lateInit: false
+  type: button
+  item:
+    material: RED_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 30
+rsc_LengShang_31:
+  lateInit: false
+  type: button
+  item:
+    material: RED_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 31
+rsc_LengShang_HSWP:
+  lateInit: false
+  type: sub
+  item:
+    material: CHAIN_COMMAND_BLOCK
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · &c&l火山工艺物品'
+  parent: rsc_LengShang_tech
+  tier: 32
+rsc_LengShang_33:
+  lateInit: false
+  type: button
+  item:
+    material: RED_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 33
+rsc_LengShang_34:
+  lateInit: false
+  type: button
+  item:
+    material: RED_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 34
+rsc_LengShang_35:
+  lateInit: false
+  type: button
+  item:
+    material: RED_STAINED_GLASS_PANE
+    name: ' '
+  parent: rsc_LengShang_tech
+  tier: 35
+rsc_LengShang_zhongzhang:
+  lateInit: false
+  type: sub
+  item:
+    material: END_CRYSTAL
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6 · &x&F&E&3&C&3&C终&x&F&A&1&6&6&9章'
+  parent: rsc_LengShang_tech
+  tier: 36

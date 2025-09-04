@@ -1,0 +1,6279 @@
+KLMSYHJD:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&b克拉美斯亚合金锭'
+    lore:
+    - ''
+    material_type: mc
+    material: IRON_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: DAMASCUS_STEEL_INGOT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: STEEL_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: GILDED_IRON
+      amount: 1
+    5:
+      material_type: slimefun
+      material: NICKEL_INGOT
+      amount: 1
+    6:
+      material_type: slimefun
+      material: COBALT_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: GOLD_24K
+      amount: 1
+KLMSYWJD:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&b克拉美斯亚无尽锭'
+    lore:
+    - ''
+    material_type: mc
+    material: IRON_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    2:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    3:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    4:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    5:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 1
+    6:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    7:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    8:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    9:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+KLMSYXKD:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&5克拉美斯亚虚空锭'
+    lore:
+    - ''
+    material_type: mc
+    material: NETHERITE_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    2:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    3:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    4:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    5:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    6:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    7:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    8:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    9:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+KLMSYSJHX:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&5克拉美斯亚无尽升华核心'
+    lore:
+    - ''
+    material_type: mc
+    material: NETHER_STAR
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KLMSYXKD
+      amount: 1
+    2:
+      material_type: slimefun
+      material: KLMSYXKD
+      amount: 1
+    3:
+      material_type: slimefun
+      material: KLMSYXKD
+      amount: 1
+    4:
+      material_type: slimefun
+      material: KLMSYXKD
+      amount: 1
+    5:
+      material_type: slimefun
+      material: INFINITY_SINGULARITY
+      amount: 1
+    6:
+      material_type: slimefun
+      material: KLMSYWJD
+      amount: 1
+    7:
+      material_type: slimefun
+      material: KLMSYWJD
+      amount: 1
+    8:
+      material_type: slimefun
+      material: KLMSYWJD
+      amount: 1
+    9:
+      material_type: slimefun
+      material: KLMSYWJD
+      amount: 1
+WJJJHX:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e无&a尽&b进&d阶&5核&6心'
+    lore:
+    - ''
+    material_type: mc
+    material: NETHER_STAR
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: FORTUNE_SINGULARITY
+      amount: 1
+    2:
+      material_type: slimefun
+      material: MAGIC_SINGULARITY
+      amount: 1
+    3:
+      material_type: slimefun
+      material: EARTH_SINGULARITY
+      amount: 1
+    4:
+      material_type: slimefun
+      material: METAL_SINGULARITY
+      amount: 1
+    5:
+      material_type: slimefun
+      material: KLMSYSJHX
+      amount: 1
+    6:
+      material_type: slimefun
+      material: METAL_SINGULARITY
+      amount: 1
+    7:
+      material_type: slimefun
+      material: DIAMOND_SINGULARITY
+      amount: 1
+    8:
+      material_type: slimefun
+      material: EMERALD_SINGULARITY
+      amount: 1
+    9:
+      material_type: slimefun
+      material: NETHERITE_SINGULARITY
+      amount: 1
+INFINITY_CROWN_V2:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: INFINITY_CROWN_V2
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    2:
+      material_type: slimefun
+      material: WJJJHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: INFINITY_CROWN
+      amount: 1
+INFINITY_CHESTPLATE_V2:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: INFINITY_CHESTPLATE_V2
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    2:
+      material_type: slimefun
+      material: WJJJHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: INFINITY_CHESTPLATE
+      amount: 1
+INFINITY_LEGGINGS_V2:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: INFINITY_LEGGINGS_V2
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    2:
+      material_type: slimefun
+      material: WJJJHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: INFINITY_LEGGINGS
+      amount: 1
+INFINITY_BOOTS_V2:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: INFINITY_BOOTS_V2
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    2:
+      material_type: slimefun
+      material: WJJJHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: INFINITY_BOOTS
+      amount: 1
+INFINITY_BLADE_V2:
+  lateInit: false
+  item_group: rsc_LengShang_wq
+  item:
+    material_type: saveditem
+    material: INFINITY_BLADE_V2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: WJJJHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: INFINITY_BLADE
+      amount: 1
+INFINITY_PICKAXE_V2:
+  lateInit: false
+  item_group: rsc_LengShang_gj
+  item:
+    material_type: saveditem
+    material: INFINITY_PICKAXE_V2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: WJJJHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: INFINITY_PICKAXE
+      amount: 1
+INFINITY_AXE_V2:
+  lateInit: false
+  item_group: rsc_LengShang_gj
+  item:
+    material_type: saveditem
+    material: INFINITY_AXE_V2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: WJJJHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: INFINITY_AXE
+      amount: 1
+INFINITY_SHOVEL_V2:
+  lateInit: false
+  item_group: rsc_LengShang_gj
+  item:
+    material_type: saveditem
+    material: INFINITY_SHOVEL_V2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: WJJJHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: INFINITY_SHOVEL
+      amount: 1
+AW_JSBS:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_JSBS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: FEATHER
+      amount: 1
+    2:
+      material_type: mc
+      material: FEATHER
+      amount: 1
+    3:
+      material_type: mc
+      material: FEATHER
+      amount: 1
+    4:
+      material_type: mc
+      material: FEATHER
+      amount: 1
+    5:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_WIND
+      amount: 1
+    6:
+      material_type: mc
+      material: FEATHER
+      amount: 1
+    7:
+      material_type: mc
+      material: FEATHER
+      amount: 1
+    8:
+      material_type: mc
+      material: FEATHER
+      amount: 1
+    9:
+      material_type: mc
+      material: FEATHER
+      amount: 1
+AW_XLBS:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_XLBS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+    2:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+    3:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+    4:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: STAFF_ELEMENTAL_FIRE
+      amount: 1
+    6:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+    7:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+    8:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+    9:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+AW_LLBS:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_LLBS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+    2:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+    3:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+    4:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+    5:
+      material_type: mc
+      material: EMERALD
+      amount: 1
+    6:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+    7:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+    8:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+    9:
+      material_type: mc
+      material: ENCHANTED_GOLDEN_APPLE
+      amount: 1
+AW_KWZG:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_KWZG
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: GOLD_24K
+      amount: 1
+    2:
+      material_type: slimefun
+      material: GOLD_24K
+      amount: 1
+    3:
+      material_type: slimefun
+      material: GOLD_24K
+      amount: 1
+    5:
+      material_type: mc
+      material: STICK
+      amount: 1
+    8:
+      material_type: mc
+      material: STICK
+      amount: 1
+AW_BZ:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_BZ
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: BRICK
+      amount: 1
+    2:
+      material_type: mc
+      material: BRICK
+      amount: 1
+    3:
+      material_type: mc
+      material: BRICK
+      amount: 1
+    4:
+      material_type: mc
+      material: BRICK
+      amount: 1
+    6:
+      material_type: mc
+      material: BRICK
+      amount: 1
+    7:
+      material_type: mc
+      material: BRICK
+      amount: 1
+    8:
+      material_type: mc
+      material: BRICK
+      amount: 1
+    9:
+      material_type: mc
+      material: BRICK
+      amount: 1
+AW_KXJ:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_KXJ
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: INFINITY_CHESTPLATE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+AW_SG:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_SG
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: COBALT_PICKAXE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: COBALT_PICKAXE
+      amount: 1
+    3:
+      material_type: slimefun
+      material: COBALT_PICKAXE
+      amount: 1
+    5:
+      material_type: mc
+      material: STICK
+      amount: 1
+    8:
+      material_type: mc
+      material: STICK
+      amount: 1
+AW_XYM:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_XYM
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: GREEN_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: GREEN_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: GREEN_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: GREEN_DYE
+      amount: 1
+    5:
+      material_type: mc
+      material: LEATHER_HELMET
+      amount: 1
+    6:
+      material_type: mc
+      material: GREEN_DYE
+      amount: 1
+    7:
+      material_type: mc
+      material: GREEN_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: GREEN_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: GREEN_DYE
+      amount: 1
+AW_NMZSJ:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_NMZSJ
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: INFINITY_BLADE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+AW_FTJ:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_FTJ
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    5:
+      material_type: mc
+      material: BARRIER
+      amount: 1
+AW_ZEYS:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_ZEYS
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    5:
+      material_type: mc
+      material: BARRIER
+      amount: 1
+AW_HL:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_HL
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    5:
+      material_type: mc
+      material: BARRIER
+      amount: 1
+AW_MLFKJ:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_MLFKJ
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: mc
+      material: COMMAND_BLOCK
+      amount: 1
+    5:
+      material_type: mc
+      material: COMMAND_BLOCK
+      amount: 1
+    8:
+      material_type: mc
+      material: STICK
+      amount: 1
+AW_LZR:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_LZR
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    5:
+      material_type: mc
+      material: NETHERITE_HOE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+    9:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 1
+AW_XZM:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_XZM
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    2:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    5:
+      material_type: mc
+      material: LEATHER_HELMET
+      amount: 1
+    6:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    7:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    8:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    9:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+AW_DLB:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_DLB
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    4:
+      material_type: mc
+      material: BREAD
+      amount: 1
+    5:
+      material_type: mc
+      material: BREAD
+      amount: 1
+    6:
+      material_type: mc
+      material: BREAD
+      amount: 1
+AW_G288:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_G288
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: IRON_PICKAXE
+      amount: 1
+    2:
+      material_type: mc
+      material: IRON_PICKAXE
+      amount: 1
+    3:
+      material_type: mc
+      material: IRON_PICKAXE
+      amount: 1
+    5:
+      material_type: mc
+      material: STICK
+      amount: 1
+    8:
+      material_type: mc
+      material: STICK
+      amount: 1
+AW_YZXWZJ:
+  lateInit: false
+  item_group: rsc_LengShang_HSWP
+  item:
+    material_type: saveditem
+    material: AW_YZXWZJ
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: INFINITY_BLADE_V2
+      amount: 1
+    5:
+      material_type: slimefun
+      material: HSNB5
+      amount: 1
+    8:
+      material_type: slimefun
+      material: JJHSHX
+      amount: 1
+KMSYHJTK:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: KMSYHJTK
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    2:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    3:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    4:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    6:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+KLMSYHJXJ:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: KLMSYHJXJ
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    3:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    4:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    5:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    6:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    7:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    8:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    9:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+KLMSYHJHT:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: KLMSYHJHT
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    2:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    3:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    4:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    6:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    7:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    9:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+KLMSYHJXZ:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: KLMSYHJXZ
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    3:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    4:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    6:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+KLMSYHJJ:
+  lateInit: false
+  item_group: rsc_LengShang_wq
+  item:
+    material_type: saveditem
+    material: KLMSYHJJ
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    5:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    8:
+      material_type: mc
+      material: STICK
+      amount: 1
+KLMSYHJG:
+  lateInit: false
+  item_group: rsc_LengShang_gj
+  item:
+    material_type: saveditem
+    material: KLMSYHJG
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    2:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    3:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    5:
+      material_type: mc
+      material: STICK
+      amount: 1
+    8:
+      material_type: mc
+      material: STICK
+      amount: 1
+KLMSYHJF:
+  lateInit: false
+  item_group: rsc_LengShang_gj
+  item:
+    material_type: saveditem
+    material: KLMSYHJF
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    2:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    4:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    5:
+      material_type: mc
+      material: STICK
+      amount: 1
+    8:
+      material_type: mc
+      material: STICK
+      amount: 1
+KLMSYHJC:
+  lateInit: false
+  item_group: rsc_LengShang_gj
+  item:
+    material_type: saveditem
+    material: KLMSYHJC
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: KLMSYHJD
+      amount: 1
+    5:
+      material_type: mc
+      material: STICK
+      amount: 1
+    8:
+      material_type: mc
+      material: STICK
+      amount: 1
+HLYHX:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    material_type: saveditem
+    material: HLYHX
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    3:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: KLMSYSJHX
+      amount: 1
+    6:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+    8:
+      material_type: slimefun
+      material: WJJJHX
+      amount: 1
+    9:
+      material_type: slimefun
+      material: REINFORCED_ALLOY_INGOT
+      amount: 1
+HLYTK:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: HLYTK
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    2:
+      material_type: slimefun
+      material: HLYHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ULTIMA_COMPRESS_NETHERITE_HELMET
+      amount: 1
+HLYXJ:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: HLYXJ
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    2:
+      material_type: slimefun
+      material: HLYHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ULTIMA_COMPRESS_NETHERITE_CHESTPLATE
+      amount: 1
+HLYHT:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: HLYHT
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    2:
+      material_type: slimefun
+      material: HLYHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ULTIMA_COMPRESS_NETHERITE_LEGGINGS
+      amount: 1
+HLYXZ:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: HLYXZ
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    2:
+      material_type: slimefun
+      material: HLYHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ULTIMA_COMPRESS_NETHERITE_BOOTS
+      amount: 1
+HLYZJ:
+  lateInit: false
+  item_group: rsc_LengShang_wq
+  item:
+    material_type: saveditem
+    material: HLYZJ
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: HLYHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ULTIMA_COMPRESS_NETHERITE_SWORD
+      amount: 1
+HLYZG:
+  lateInit: false
+  item_group: rsc_LengShang_gj
+  item:
+    material_type: saveditem
+    material: HLYZG
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: HLYHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ULTIMA_COMPRESS_NETHERITE_PICKAXE
+      amount: 1
+HLYZF:
+  lateInit: false
+  item_group: rsc_LengShang_gj
+  item:
+    material_type: saveditem
+    material: HLYZF
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: HLYHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ULTIMA_COMPRESS_NETHERITE_AXE
+      amount: 1
+HLYZC:
+  lateInit: false
+  item_group: rsc_LengShang_gj
+  item:
+    material_type: saveditem
+    material: HLYZC
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: HLYHX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: ULTIMA_COMPRESS_NETHERITE_SHOVEL
+      amount: 1
+WHITE_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f白色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: WHITE_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: WHITE_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+ORANGE_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f橙色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: ORANGE_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: ORANGE_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+MAGENTA_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f品红色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: MAGENTA_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: MAGENTA_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+LIGHT_BLUE_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f淡蓝色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: LIGHT_BLUE_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: LIGHT_BLUE_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+YELLOW_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f黄色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: YELLOW_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: YELLOW_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+LIME_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f黄绿色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: LIME_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: LIME_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+PINK_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f粉色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: PINK_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: PINK_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+GRAY_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f灰色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: GRAY_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: GRAY_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+LIGHT_GRAY_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f淡灰色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: LIGHT_GRAY_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: LIGHT_GRAY_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+CYAN_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f青色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: CYAN_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: CYAN_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+PURPLE_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f紫色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: PURPLE_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: PURPLE_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+BLUE_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f蓝色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: BLUE_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: BLUE_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+BROWN_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f棕色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: BROWN_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: BROWN_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+GREEN_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f绿色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: GREEN_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: GREEN_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+RED_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f红色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: RED_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: RED_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+BLACK_CLOTH:
+  lateInit: false
+  item_group: rsc_LengShang_bl
+  item:
+    name: '&f黑色布料'
+    lore:
+    - '&b用于制作装扮'
+    material_type: mc
+    material: BLACK_CARPET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: BLACK_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CLOTH
+      amount: 1
+CALCITE_1L:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&7一阶压缩方解石'
+    lore:
+    - '&79个方解石'
+    material_type: mc
+    material: CALCITE
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: CALCITE
+      amount: 1
+    2:
+      material_type: mc
+      material: CALCITE
+      amount: 1
+    3:
+      material_type: mc
+      material: CALCITE
+      amount: 1
+    4:
+      material_type: mc
+      material: CALCITE
+      amount: 1
+    5:
+      material_type: mc
+      material: CALCITE
+      amount: 1
+    6:
+      material_type: mc
+      material: CALCITE
+      amount: 1
+    7:
+      material_type: mc
+      material: CALCITE
+      amount: 1
+    8:
+      material_type: mc
+      material: CALCITE
+      amount: 1
+    9:
+      material_type: mc
+      material: CALCITE
+      amount: 1
+CALCITE_2L:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&7二阶压缩方解石'
+    lore:
+    - '&781个方解石'
+    material_type: mc
+    material: CALCITE
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: CALCITE_1L
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CALCITE_1L
+      amount: 1
+    3:
+      material_type: slimefun
+      material: CALCITE_1L
+      amount: 1
+    4:
+      material_type: slimefun
+      material: CALCITE_1L
+      amount: 1
+    5:
+      material_type: slimefun
+      material: CALCITE_1L
+      amount: 1
+    6:
+      material_type: slimefun
+      material: CALCITE_1L
+      amount: 1
+    7:
+      material_type: slimefun
+      material: CALCITE_1L
+      amount: 1
+    8:
+      material_type: slimefun
+      material: CALCITE_1L
+      amount: 1
+    9:
+      material_type: slimefun
+      material: CALCITE_1L
+      amount: 1
+CALCITE_3L:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&7三阶压缩方解石'
+    lore:
+    - '&7729个方解石'
+    material_type: mc
+    material: CALCITE
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: CALCITE_2L
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CALCITE_2L
+      amount: 1
+    3:
+      material_type: slimefun
+      material: CALCITE_2L
+      amount: 1
+    4:
+      material_type: slimefun
+      material: CALCITE_2L
+      amount: 1
+    5:
+      material_type: slimefun
+      material: CALCITE_2L
+      amount: 1
+    6:
+      material_type: slimefun
+      material: CALCITE_2L
+      amount: 1
+    7:
+      material_type: slimefun
+      material: CALCITE_2L
+      amount: 1
+    8:
+      material_type: slimefun
+      material: CALCITE_2L
+      amount: 1
+    9:
+      material_type: slimefun
+      material: CALCITE_2L
+      amount: 1
+STEVE_HEAD:
+  lateInit: false
+  item_group: rsc_LengShang_bq
+  item:
+    name: '&e史蒂夫的头'
+    lore:
+    - ''
+    material_type: mc
+    material: PLAYER_HEAD
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: PORKCHOP
+      amount: 1
+    2:
+      material_type: mc
+      material: SKELETON_SKULL
+      amount: 1
+STEVE_HEAD_1:
+  lateInit: false
+  item_group: rsc_LengShang_bq
+  item:
+    name: '&e尴尬-史蒂夫'
+    lore:
+    - ''
+    material_type: skull_hash
+    material: bde1d0a53f25a63bbd108fde3d8af59447ce18c2d02e35f1939a7f34534b4c6c
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: BLUE_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STEVE_HEAD
+      amount: 1
+STEVE_HEAD_2:
+  lateInit: false
+  item_group: rsc_LengShang_bq
+  item:
+    name: '&e热-史蒂夫'
+    lore:
+    - ''
+    material_type: skull_hash
+    material: e7cf938010b7ec9e8abbe0a670ebc33ecfcb923e61a1bccb399139c40468640a
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: BLUE_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STEVE_HEAD
+      amount: 1
+    3:
+      material_type: mc
+      material: BLAZE_POWDER
+      amount: 1
+STEVE_HEAD_3:
+  lateInit: false
+  item_group: rsc_LengShang_bq
+  item:
+    name: '&e害怕-史蒂夫'
+    lore:
+    - ''
+    material_type: skull_hash
+    material: 953c8600a5f8b29f65a3c62f741b65032c13a36b9130f50d8afd48715d4c5b5
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: CREEPER_HEAD
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STEVE_HEAD
+      amount: 1
+STEVE_HEAD_4:
+  lateInit: false
+  item_group: rsc_LengShang_bq
+  item:
+    name: '&e恶心-史蒂夫'
+    lore:
+    - ''
+    material_type: skull_hash
+    material: 86f441899d80614ec59ae284a5d667e619a5a839c9049ed45fada3b4f02adb4f
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: SPIDER_EYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STEVE_HEAD
+      amount: 1
+STEVE_HEAD_5:
+  lateInit: false
+  item_group: rsc_LengShang_bq
+  item:
+    name: '&e疑惑-史蒂夫'
+    lore:
+    - ''
+    material_type: skull_hash
+    material: 69ffcbc7c1abc64e48fbb2004db022c6fb45a73f757abe4596bf5a3e97c39b48
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: STICK
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STEVE_HEAD
+      amount: 1
+STEVE_HEAD_6:
+  lateInit: false
+  item_group: rsc_LengShang_bq
+  item:
+    name: '&e歪嘴-史蒂夫'
+    lore:
+    - ''
+    material_type: skull_hash
+    material: 18933424465e0961a14a6111e4f1025556e683016daa01f119cfcb37b371371
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: BLACK_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STEVE_HEAD
+      amount: 1
+    5:
+      material_type: mc
+      material: BLACK_DYE
+      amount: 1
+STEVE_HEAD_7:
+  lateInit: false
+  item_group: rsc_LengShang_bq
+  item:
+    name: '&e流泪-史蒂夫'
+    lore:
+    - ''
+    material_type: skull_hash
+    material: b0c263ffce6ff0d196208266b70af477db5e492af12b12f22d7ba3c7fbeef665
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: BLUE_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STEVE_HEAD
+      amount: 1
+    3:
+      material_type: mc
+      material: BLUE_DYE
+      amount: 1
+    4:
+      material_type: mc
+      material: BLUE_DYE
+      amount: 1
+    6:
+      material_type: mc
+      material: BLUE_DYE
+      amount: 1
+STEVE_HEAD_8:
+  lateInit: false
+  item_group: rsc_LengShang_bq
+  item:
+    name: '&e大眼-史蒂夫'
+    lore:
+    - ''
+    material_type: skull_hash
+    material: be7b81af3def0e6ebbf2f7813492db3823fa3cc5cf1839e6547304ecc798a171
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: ENDER_EYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STEVE_HEAD
+      amount: 1
+    3:
+      material_type: mc
+      material: ENDER_EYE
+      amount: 1
+STEVE_HEAD_9:
+  lateInit: false
+  item_group: rsc_LengShang_bq
+  item:
+    name: '&e哭笑-史蒂夫'
+    lore:
+    - ''
+    material_type: skull_hash
+    material: 5159991292977f5a47b1e5984ada3810e9f8ac05eb3e3e743036e033995a2343
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: BLUE_DYE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STEVE_HEAD
+      amount: 1
+    3:
+      material_type: mc
+      material: BLUE_DYE
+      amount: 1
+STEVE_HEAD_10:
+  lateInit: false
+  item_group: rsc_LengShang_bq
+  item:
+    name: '&e开心-史蒂夫'
+    lore:
+    - ''
+    material_type: skull_hash
+    material: 4ede35ef87e539b3d198dc17a8c241b7795644a730519375ddf7584f7c28754b
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: GOLD_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STEVE_HEAD
+      amount: 1
+STEVE_HEAD_11:
+  lateInit: false
+  item_group: rsc_LengShang_bq
+  item:
+    name: '&e色-史蒂夫'
+    lore:
+    - ''
+    material_type: skull_hash
+    material: 5892d1a5c7460f27814f1f6140bf481fabc9dae3c0c493b5df0b6e0a36d95d14
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: DIAMOND
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STEVE_HEAD
+      amount: 1
+STEVE_HEAD_12:
+  lateInit: false
+  item_group: rsc_LengShang_bq
+  item:
+    name: '&e哈欠-史蒂夫'
+    lore:
+    - ''
+    material_type: skull_hash
+    material: 101bf8da77843c753d6d61f803d948a22b900c7bf7b1573beab00b8ae68936c1
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: COAL
+      amount: 1
+    2:
+      material_type: slimefun
+      material: STEVE_HEAD
+      amount: 1
+M87NJW:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '{#F4A460}M87凝聚物'
+    lore:
+    - '&7特殊的物质'
+    material_type: mc
+    material: ORANGE_DYE
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_M87WZNJQ
+  recipe:
+    1:
+      material_type: slimefun
+      material: VOID_INGOT
+      amount: 64
+    3:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 64
+TBMX:
+  lateInit: false
+  item_group: rsc_LengShang_mx
+  item:
+    name: '&f头部模型'
+    lore:
+    - '&7用于制作装扮头部'
+    material_type: mc
+    material: SKELETON_SKULL
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    2:
+      material_type: mc
+      material: STONE
+      amount: 1
+    4:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    5:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+MZMX:
+  lateInit: false
+  item_group: rsc_LengShang_mx
+  item:
+    name: '&f帽子模型'
+    lore:
+    - '&7用于制作装扮帽子'
+    material_type: mc
+    material: LEATHER_HELMET
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    2:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    3:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    4:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    6:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+SYMX:
+  lateInit: false
+  item_group: rsc_LengShang_mx
+  item:
+    name: '&f上衣模型'
+    lore:
+    - '&7用于制作装扮上衣'
+    material_type: mc
+    material: LEATHER_CHESTPLATE
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    3:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    4:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    5:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    6:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    7:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    8:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    9:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+KZMX:
+  lateInit: false
+  item_group: rsc_LengShang_mx
+  item:
+    name: '&f裤子模型'
+    lore:
+    - '&7用于制作装扮裤子'
+    material_type: mc
+    material: LEATHER_LEGGINGS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    2:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    3:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    4:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    6:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    7:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    9:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+XZMX:
+  lateInit: false
+  item_group: rsc_LengShang_mx
+  item:
+    name: '&f鞋子模型'
+    lore:
+    - '&7用于制作装扮鞋子'
+    material_type: mc
+    material: LEATHER_BOOTS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    3:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    4:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+    6:
+      material_type: slimefun
+      material: PLASTIC_SHEET
+      amount: 1
+SWMX:
+  lateInit: false
+  item_group: rsc_LengShang_mx
+  item:
+    name: '&f丝袜模型'
+    lore:
+    - '&7用于制作装扮丝袜'
+    material_type: mc
+    material: CHAINMAIL_LEGGINGS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: STRING
+      amount: 1
+    2:
+      material_type: mc
+      material: STRING
+      amount: 1
+    3:
+      material_type: mc
+      material: STRING
+      amount: 1
+    4:
+      material_type: mc
+      material: STRING
+      amount: 1
+    6:
+      material_type: mc
+      material: STRING
+      amount: 1
+    7:
+      material_type: mc
+      material: STRING
+      amount: 1
+    9:
+      material_type: mc
+      material: STRING
+      amount: 1
+SANS1:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: SANS1
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: MZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: LIGHT_BLUE_CLOTH
+      amount: 1
+    4:
+      material_type: slimefun
+      material: TBMX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: WHITE_CLOTH
+      amount: 1
+SANS2:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: SANS2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: SYMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: LIGHT_BLUE_CLOTH
+      amount: 1
+SANS3:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: SANS3
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: BLACK_CLOTH
+      amount: 1
+SANS4:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: SANS4
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: XZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: PINK_CLOTH
+      amount: 1
+MN1:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: MN1
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: MAGENTA_CLOTH
+      amount: 1
+    2:
+      material_type: slimefun
+      material: WHITE_CLOTH
+      amount: 1
+    3:
+      material_type: slimefun
+      material: MAGENTA_CLOTH
+      amount: 1
+    4:
+      material_type: slimefun
+      material: PINK_CLOTH
+      amount: 1
+    5:
+      material_type: slimefun
+      material: TBMX
+      amount: 1
+    6:
+      material_type: slimefun
+      material: PINK_CLOTH
+      amount: 1
+MN2:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: MN2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: SYMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: MAGENTA_CLOTH
+      amount: 1
+MN3:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: MN3
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: SWMX
+      amount: 1
+    2:
+      material_type: mc
+      material: WHITE_DYE
+      amount: 1
+    3:
+      material_type: mc
+      material: STRING
+      amount: 1
+MN4:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: MN4
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: XZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: MAGENTA_CLOTH
+      amount: 1
+M87WZT:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '{#F4A460}M87物质团'
+    lore:
+    - '&7由某种物质形成的'
+    material_type: skull_hash
+    material: 7e423e8368c2560e2f05d95d369381ef1fa40b85468781f219ddececdd70f4de
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_M87WZNJQ
+  recipe:
+    5:
+      material_type: slimefun
+      material: M87NJW
+      amount: 5
+HSBUG:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&2&lBUG'
+    lore:
+    - '&4写了个BUG属于是...'
+    material_type: skull_hash
+    material: 9f13197c6a7cf52570fe564aab9944a9043bdf7d957479311ece0225e1d38df4
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_KJKYTJ
+  recipe:
+    4:
+      material_type: slimefun
+      material: _FINALTECH_UNORDERED_DUST
+      amount: 64
+    6:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 64
+HSYS:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '{#D2691E}陨石'
+    lore:
+    - '&4来自太空的“燃料”？'
+    material_type: mc
+    material: BLACKSTONE
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: COBBLESTONE
+      amount: 1
+    2:
+      material_type: mc
+      material: GRANITE
+      amount: 1
+    3:
+      material_type: mc
+      material: DIORITE
+      amount: 1
+    4:
+      material_type: mc
+      material: ANDESITE
+      amount: 1
+    5:
+      material_type: mc
+      material: IRON_BLOCK
+      amount: 1
+MFZZ:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&d魔法种子'
+    lore:
+    - '&7用于转换成花'
+    material_type: mc
+    material: WHEAT_SEEDS
+    amount: 1
+  placeable: false
+  recipe_type: MAGIC_WORKBENCH
+  recipe:
+    1:
+      material_type: slimefun
+      material: MAGIC_SUGAR
+      amount: 1
+    2:
+      material_type: mc
+      material: WHEAT_SEEDS
+      amount: 1
+HT1:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: HT1
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: MZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: BROWN_CLOTH
+      amount: 1
+    4:
+      material_type: slimefun
+      material: TBMX
+      amount: 1
+    5:
+      material_type: slimefun
+      material: WHITE_CLOTH
+      amount: 1
+HT2:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: HT2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: SYMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: BROWN_CLOTH
+      amount: 1
+HT3:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: HT3
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: BROWN_CLOTH
+      amount: 1
+HT4:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: HT4
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: XZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: BROWN_CLOTH
+      amount: 1
+NP1:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: NP1
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: WHITE_CLOTH
+      amount: 1
+    2:
+      material_type: slimefun
+      material: LIGHT_GRAY_CLOTH
+      amount: 1
+    4:
+      material_type: slimefun
+      material: TBMX
+      amount: 1
+NP2:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: NP2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: SYMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: GRAY_CLOTH
+      amount: 1
+NP3:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: NP3
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: SWMX
+      amount: 1
+    2:
+      material_type: mc
+      material: WHITE_DYE
+      amount: 1
+NP4:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: NP4
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: XZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: BLACK_CLOTH
+      amount: 1
+QTZ1:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: QTZ1
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: TBMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: BLUE_CLOTH
+      amount: 1
+QTZ2:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: QTZ2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: SYMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: RED_CLOTH
+      amount: 1
+QTZ3:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: QTZ3
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: LIGHT_GRAY_CLOTH
+      amount: 1
+QTZ4:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: QTZ4
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: XZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: BLUE_CLOTH
+      amount: 1
+DHF1:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: DHF1
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: TBMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: YELLOW_CLOTH
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ORANGE_CLOTH
+      amount: 1
+DHF2:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: DHF2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: SYMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: YELLOW_CLOTH
+      amount: 1
+DHF3:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: DHF3
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: BLACK_CLOTH
+      amount: 1
+    3:
+      material_type: slimefun
+      material: BLACK_CLOTH
+      amount: 1
+DHF4:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: DHF4
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: XZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: YELLOW_CLOTH
+      amount: 1
+QSNH1:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: QSNH1
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: TBMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CYAN_CLOTH
+      amount: 1
+    3:
+      material_type: slimefun
+      material: BLACK_CLOTH
+      amount: 1
+QSNH2:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: QSNH2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: SYMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CYAN_CLOTH
+      amount: 1
+QSNH3:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: QSNH3
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: SWMX
+      amount: 1
+    2:
+      material_type: mc
+      material: BLACK_DYE
+      amount: 1
+QSNH4:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: QSNH4
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: XZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: CYAN_CLOTH
+      amount: 1
+PDX1:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: PDX1
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: TBMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: PINK_CLOTH
+      amount: 1
+PDX2:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: PDX2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: SYMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: PINK_CLOTH
+      amount: 1
+PDX3:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: PDX3
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: PURPLE_CLOTH
+      amount: 1
+    3:
+      material_type: slimefun
+      material: LIME_CLOTH
+      amount: 1
+    4:
+      material_type: slimefun
+      material: GREEN_CLOTH
+      amount: 1
+PDX4:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: PDX4
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: XZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: PINK_CLOTH
+      amount: 1
+    3:
+      material_type: slimefun
+      material: PINK_CLOTH
+      amount: 1
+HMBB1:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: HMBB1
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: TBMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: YELLOW_CLOTH
+      amount: 1
+HMBB2:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: HMBB2
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: SYMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: BROWN_CLOTH
+      amount: 1
+    3:
+      material_type: slimefun
+      material: WHITE_CLOTH
+      amount: 1
+HMBB3:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: HMBB3
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: KZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: YELLOW_CLOTH
+      amount: 1
+HMBB4:
+  lateInit: false
+  item_group: rsc_LengShang_zban
+  item:
+    material_type: saveditem
+    material: HMBB4
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: XZMX
+      amount: 1
+    2:
+      material_type: slimefun
+      material: BLACK_CLOTH
+      amount: 1
+    3:
+      material_type: slimefun
+      material: BLACK_CLOTH
+      amount: 1
+HSHXSP:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '{#F4A460}火山核心碎片'
+    lore:
+    - '&b强大核心失传许久的碎片？'
+    material_type: mc
+    material: RED_DYE
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_HSNYRHJ
+  recipe:
+    5:
+      material_type: slimefun
+      material: M87WZT
+      amount: 24
+HSHX:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '{#66CDAA}火山核心'
+    lore:
+    - '&b拥有最强大的核心能量！'
+    material_type: mc
+    material: NETHER_STAR
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_HSNYRHJ
+  recipe:
+    5:
+      material_type: slimefun
+      material: HSHXSP
+      amount: 64
+JJHSHX:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '{#B22222}究极火山核心'
+    lore:
+    - '&b已经封神了！'
+    material_type: mc
+    material: COMMAND_BLOCK
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_HSNYRHJ
+  recipe:
+    5:
+      material_type: slimefun
+      material: HSHX
+      amount: 32
+HSNB1:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: HSNB1
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    1:
+      material_type: slimefun
+      material: INFINITY_CROWN_V2
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JJHSHX
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ULTIMA_COMPRESS_NETHERITE_HELMET
+      amount: 1
+    4:
+      material_type: slimefun
+      material: HLYTK
+      amount: 1
+    6:
+      material_type: slimefun
+      material: SUPREME_HELMET_SUPREME
+      amount: 1
+HSNB2:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: HSNB2
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    1:
+      material_type: slimefun
+      material: INFINITY_CHESTPLATE_V2
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ULTIMA_COMPRESS_NETHERITE_CHESTPLATE
+      amount: 1
+    4:
+      material_type: slimefun
+      material: HLYXJ
+      amount: 1
+    5:
+      material_type: slimefun
+      material: JJHSHX
+      amount: 1
+    6:
+      material_type: slimefun
+      material: SUPREME_CHESTPLATE_SUPREME
+      amount: 1
+    7:
+      material_type: slimefun
+      material: SUPREME_CHESTPLATE_LEGENDARY
+      amount: 1
+    8:
+      material_type: slimefun
+      material: SUPREME_CHESTPLATE_EPIC
+      amount: 1
+    9:
+      material_type: slimefun
+      material: SUPREME_CHESTPLATE_RARE
+      amount: 1
+HSNB3:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: HSNB3
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    1:
+      material_type: slimefun
+      material: INFINITY_LEGGINGS_V2
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JJHSHX
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ULTIMA_COMPRESS_NETHERITE_LEGGINGS
+      amount: 1
+    4:
+      material_type: slimefun
+      material: HLYHT
+      amount: 1
+    6:
+      material_type: slimefun
+      material: SUPREME_LEGGINGS_SUPREME
+      amount: 1
+    7:
+      material_type: slimefun
+      material: SUPREME_LEGGINGS_LEGENDARY
+      amount: 1
+    9:
+      material_type: slimefun
+      material: SUPREME_LEGGINGS_EPIC
+      amount: 1
+HSNB4:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: HSNB4
+    amount: 1
+  placeable: false
+  recipe_type: ARMOR_FORGE
+  recipe:
+    1:
+      material_type: slimefun
+      material: INFINITY_BOOTS_V2
+      amount: 1
+    3:
+      material_type: slimefun
+      material: JJHSHX
+      amount: 1
+    4:
+      material_type: slimefun
+      material: HLYXZ
+      amount: 1
+    6:
+      material_type: slimefun
+      material: SUPREME_BOOTS_SUPREME
+      amount: 1
+HSNB5:
+  lateInit: false
+  item_group: rsc_LengShang_wq
+  item:
+    material_type: saveditem
+    material: HSNB5
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: INFINITY_BLADE_V2
+      amount: 1
+    5:
+      material_type: slimefun
+      material: SUPREME_SWORD_SUPREME
+      amount: 1
+    8:
+      material_type: slimefun
+      material: JJHSHX
+      amount: 1
+HSNB6:
+  lateInit: false
+  item_group: rsc_LengShang_gj
+  item:
+    material_type: saveditem
+    material: HSNB6
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: INFINITY_PICKAXE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: JJHSHX
+      amount: 1
+    3:
+      material_type: slimefun
+      material: ULTIMA_COMPRESS_NETHERITE_PICKAXE
+      amount: 1
+    5:
+      material_type: slimefun
+      material: HLYZG
+      amount: 1
+    8:
+      material_type: slimefun
+      material: SUPREME_PICKAXE_SUPREME
+      amount: 1
+HSNB7:
+  lateInit: false
+  item_group: rsc_LengShang_gj
+  item:
+    material_type: saveditem
+    material: HSNB7
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: INFINITY_AXE
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ULTIMA_COMPRESS_NETHERITE_AXE
+      amount: 1
+    4:
+      material_type: slimefun
+      material: HLYZF
+      amount: 1
+    5:
+      material_type: slimefun
+      material: JJHSHX
+      amount: 1
+    8:
+      material_type: slimefun
+      material: SUPREME_AXE_SUPREME
+      amount: 1
+HSNB8:
+  lateInit: false
+  item_group: rsc_LengShang_gj
+  item:
+    material_type: saveditem
+    material: HSNB8
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    2:
+      material_type: slimefun
+      material: INFINITY_SHOVEL
+      amount: 1
+    5:
+      material_type: slimefun
+      material: JJHSHX
+      amount: 1
+    8:
+      material_type: slimefun
+      material: HLYZC
+      amount: 1
+HYLS:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    material_type: saveditem
+    material: HYLS
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_YSRLZZJ
+  recipe:
+    5:
+      material_type: mc
+      material: HEART_OF_THE_SEA
+      amount: 1
+SYLS:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    material_type: saveditem
+    material: SYLS
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_YSRLZZJ
+  recipe:
+    5:
+      material_type: mc
+      material: OAK_LEAVES
+      amount: 1
+MDHS:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    material_type: saveditem
+    material: MDHS
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_YSRLZZJ
+  recipe:
+    5:
+      material_type: mc
+      material: END_STONE
+      amount: 1
+DYHS:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    material_type: saveditem
+    material: DYHS
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_YSRLZZJ
+  recipe:
+    5:
+      material_type: mc
+      material: NETHERRACK
+      amount: 1
+CH1:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: CH1
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: mc
+      material: NETHERITE_HELMET
+      amount: 1
+    3:
+      material_type: slimefun
+      material: HYLS
+      amount: 1
+    5:
+      material_type: slimefun
+      material: LengShang_CHZBDZJ
+      amount: 1
+CH2:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: CH2
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: mc
+      material: NETHERITE_CHESTPLATE
+      amount: 1
+    3:
+      material_type: slimefun
+      material: SYLS
+      amount: 1
+    5:
+      material_type: slimefun
+      material: LengShang_CHZBDZJ
+      amount: 1
+CH3:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: CH3
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: mc
+      material: NETHERITE_LEGGINGS
+      amount: 1
+    3:
+      material_type: slimefun
+      material: MDHS
+      amount: 1
+    5:
+      material_type: slimefun
+      material: LengShang_CHZBDZJ
+      amount: 1
+CH4:
+  lateInit: false
+  item_group: rsc_LengShang_zb
+  item:
+    material_type: saveditem
+    material: CH4
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+  recipe:
+    1:
+      material_type: mc
+      material: NETHERITE_BOOTS
+      amount: 1
+    3:
+      material_type: slimefun
+      material: DYHS
+      amount: 1
+    5:
+      material_type: slimefun
+      material: LengShang_CHZBDZJ
+      amount: 1
+LengShang_sms:
+  lateInit: false
+  item_group: rsc_LengShang_sms
+  item:
+    name: '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&7说明书'
+    lore:
+    - '&7&l由 &d&llengshang &6&l基于&c&l火山工艺&6&l修复合并+部分修改以及新增内容&7&l而成'
+    - '&c&l火山工艺'
+    - '&3&l作者：HuoSJ'
+    - '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6'
+    - '&3&l作者：lengshang'
+    - '&6作者qq：2714510283'
+    - '&e对冷殇科技有建议或问题的欢迎反馈'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_bb:
+  lateInit: false
+  item_group: rsc_LengShang_sms
+  item:
+    name: '&c&l版本号'
+    lore:
+    - '&f当前&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&f版本：'
+    - '&bRelease-1.0.6'
+    - '&6前置附属如下：'
+    - '&7无尽贪婪'
+    - '&7乱序技艺'
+    - '&7至尊研究院'
+    - '&7基因工程'
+    - '&7海曼科技院'
+    - '&7逻辑工艺'
+    - '&7火莱伊工艺'
+    - '&6火莱伊工艺可以在qq群:985241606的群文件下载'
+    - '&d没有装前置的物品只会变成石头'
+    - '&d并不会导致不加载冷殇科技'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_zysx:
+  lateInit: false
+  item_group: rsc_LengShang_sms
+  item:
+    name: '&c&l注意事项'
+    lore:
+    - '&6如果你的3级生成器是石头'
+    - '&6原因是因为你使用的是基因工程多语言版本'
+    - '&6你可以选择换个基因工程版本'
+    - '&6或者去配置文件的mat_generators中'
+    - '&6把所有的GCE_EXCITATION_CHAMBER_10'
+    - '&6全部替换为GCE_EXCITATION_CHAMBER_3即可'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_gxrz1:
+  lateInit: false
+  item_group: rsc_LengShang_sms
+  item:
+    name: '&62025.7.26更新日志'
+    lore:
+    - '&5一个心血来潮的想法'
+    - '&5既然暮舟科技的生成器和压缩机器这么受欢迎'
+    - '&5那我把这些内容独立做成一个附属会不会很好？'
+    - '&5这似乎很有搞头，那就开搞！'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_gxrz2:
+  lateInit: false
+  item_group: rsc_LengShang_sms
+  item:
+    name: '&62025.7.29更新日志'
+    lore:
+    - '&5经过3天的努力'
+    - '&5总算把原版材料生成器和粘液材料生成器写完了'
+    - '&5压缩机器耗时2个小时完工咯'
+    - '&5只剩下海曼科技院了'
+    - '&5希望能够早点写完吧'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_gxrz3:
+  lateInit: false
+  item_group: rsc_LengShang_sms
+  item:
+    name: '&62025.7.30更新日志'
+    lore:
+    - '&5海曼科技院也顺利完成了'
+    - '&5第一版就到这里吧?'
+    - '&b冷殇科技Release-1.0.1版本顺利完工'
+    - '&5总共耗时4天，希望能够有人喜欢吧'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_gxrz4:
+  lateInit: false
+  item_group: rsc_LengShang_sms
+  item:
+    name: '&62025.8.2更新日志'
+    lore:
+    - '&b版本更新至Release-1.0.2'
+    - '&5新增压缩机器的再次压缩版'
+    - '&5让你做的1-2级机器也能实现3级机器的效果'
+    - '&5持续更新中...'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_gxrz5:
+  lateInit: false
+  item_group: rsc_LengShang_sms
+  item:
+    name: '&62025.8.4更新日志'
+    lore:
+    - '&b版本更新至Release-1.0.3'
+    - '&5修复一些配方错误的bug'
+    - '&5经过2天的努力'
+    - '&5新增海曼科技院的压缩机器'
+    - '&5让你能够压缩时间，不再漫长的等待...'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_gxrz6:
+  lateInit: false
+  item_group: rsc_LengShang_sms
+  item:
+    name: '&62025.8.7更新日志'
+    lore:
+    - '&b版本更新至Release-1.0.4'
+    - '&5新增逻辑工艺部分机器'
+    - '&5新增不会爆炸的超新星模拟器与元素嬗变机模拟器'
+    - '&5修正下界之心生成器为下界之星生成器'
+    - '&5新增8K金锭生成器，为自动化古代基座使用'
+    - '&5新增材料展示方法，左边显示制作机器'
+    - '&5新增无尽镐，斧，铲的V2版本'
+    - '&5新增克拉美斯亚合金的镐，斧，铲'
+    - '&5新增随机电卡一体机与电卡升级机'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_gxrz7:
+  lateInit: false
+  item_group: rsc_LengShang_sms
+  item:
+    name: '&62025.8.8更新日志'
+    lore:
+    - '&5新增增强版BUG工作台'
+    - '&5新增反概念物质同化机'
+    - '&5海曼科技院新增3个压缩机器'
+    - '&5新增光刻机模拟器'
+    - '&5新增石头生成器'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_gxrz8:
+  lateInit: false
+  item_group: rsc_LengShang_sms
+  item:
+    name: '&62025.8.16更新日志'
+    lore:
+    - '&b版本更新至Release-1.0.5'
+    - '&5新增乱序自动装配机与矩阵合成装配台'
+    - '&5修复BUG工作台无法制作堆叠空间的问题'
+    - '&5修复一些小问题，配方错误等'
+    - '&5留名集新增一些名字与部分人头颅显示'
+    - '&5新增压缩-无尽贪婪分类'
+    - '&5新增2个原版生成器与7个粘液锭生成器'
+    - '&5由于新增7个粘液锭生成器，部分机器配方改变'
+    - '&5配方由粉生成器改为锭生成器'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_gxrz9:
+  lateInit: false
+  item_group: rsc_LengShang_sms
+  item:
+    name: '&62025.8.17更新日志'
+    lore:
+    - '&5新增悖论一体机，解决悖论无法稳定生产的问题'
+    - '&5新增头颅选择器，并开放留名集头颅制作与放置'
+    - '&5新增终章分类-创世神'
+    - '&5新增至尊7种基础合金生成器'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_gxrz10:
+  lateInit: false
+  item_group: rsc_LengShang_sms
+  item:
+    name: '&62025.9.2更新日志'
+    lore:
+    - '&b版本更新至Release-1.0.6'
+    - '&5大幅度削弱生成器效率，增加两个物品作为合成配方'
+    - '&5由1级10刻->1级60刻'
+    - '&5由2级5刻->2级30刻'
+    - '&5由3级1刻->3级10刻'
+    - '&5新增3级生成器的金色压缩，使得升级为最终版才能1刻64个'
+    - '&5修改超新星与嬗变的UI'
+    - '&5新增锻造星辰与BUG批发商'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_2:
+  lateInit: false
+  item_group: rsc_LengShang_2
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_8:
+  lateInit: false
+  item_group: rsc_LengShang_8
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_11:
+  lateInit: false
+  item_group: rsc_LengShang_11
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_15:
+  lateInit: false
+  item_group: rsc_LengShang_15
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_16:
+  lateInit: false
+  item_group: rsc_LengShang_16
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_17:
+  lateInit: false
+  item_group: rsc_LengShang_17
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_20:
+  lateInit: false
+  item_group: rsc_LengShang_20
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_26:
+  lateInit: false
+  item_group: rsc_LengShang_26
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_28:
+  lateInit: false
+  item_group: rsc_LengShang_28
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_29:
+  lateInit: false
+  item_group: rsc_LengShang_29
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_30:
+  lateInit: false
+  item_group: rsc_LengShang_30
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_31:
+  lateInit: false
+  item_group: rsc_LengShang_31
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_33:
+  lateInit: false
+  item_group: rsc_LengShang_33
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_34:
+  lateInit: false
+  item_group: rsc_LengShang_34
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_35:
+  lateInit: false
+  item_group: rsc_LengShang_35
+  item:
+    name: ' '
+    lore: []
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: false
+  recipe_type: 'NULL'
+LengShang_lengshang:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&dlengshang'
+    lore: 
+    - '&a粘&b液&c大&d蛇'
+    - '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&x&F&E&3&C&3&C作&x&F&A&1&6&6&9者'
+    material_type: skull_hash
+    material: 20b13024045c5c0d6d2afb059ae9660f7ad020fd895bb75f64fcc02ddb07d327
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_HuoSJ:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6HuoSJ'
+    lore: 
+    - '&c&l火山工艺作者'
+    material_type: skull_hash
+    material: 7747d96e685538a401848f6f5f2b2f8f9e1f5d4fa4eb6cfe70a9df62eb595daf
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_Best_sky:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6Best_sky'
+    lore: 
+    - '&x&F&A&1&6&6&9早期的粘液科技之神'
+    material_type: mc
+    material: CHAIN_COMMAND_BLOCK
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_tinalness:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6tinalness'
+    lore: 
+      - '&x&F&A&1&6&6&9大香蕉的本质其实是命令方块awa'
+      - '&x&F&A&1&6&6&9网络拓展作者 粘液JEG作者'
+      - '&x&F&A&1&6&6&9为粘液作出了巨大贡献'
+    material_type: skull_hash
+    material: 73112785f64d814103931505ace00048c087337785550c99a67449c392b39772
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_haiman:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6haiman'
+    lore: 
+      - '&x&F&A&1&6&6&9海曼科技院作者——haiman'
+      - '&x&F&A&1&6&6&9可恶的神人海曼'
+    material_type: skull_hash
+    material: 1421f1514da756c8c6c7c0b83a79265c26c9ece66b3bad8fbd94bd96d7040d7e
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_JodgDoemr:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6JodgDoemr'
+    lore: 
+    - '&x&F&A&1&6&6&9魔法水晶太好玩啦'
+    material_type: mc
+    material: AMETHYST_CLUSTER
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_sban66:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6sban66'
+    lore: 
+    - '&x&F&A&1&6&6&9暮舟服务器腐竹'
+    - '&x&F&A&1&6&6&9qq群号：730502518'
+    material_type: skull_hash
+    material: 65a1f187318388ed5d001383ea4343b7871b83284382193cc680274105e1b7
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_matl114:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6matl114'
+    lore: 
+    - '&x&F&A&1&6&6&9逻辑工艺作者'
+    - '&x&F&A&1&6&6&9万全不诗人'
+    material_type: mc
+    material: BUDDING_AMETHYST
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_Madeline233:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6Madeline233'
+    lore: 
+    - '&x&F&A&1&6&6&9曾手搓1183种复制卡的神人'
+    material_type: skull_hash
+    material: 8d9366807fc7bffc684738781ced3a4feb1bbb86a8d223511f8cdc46dbc23707
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_47_Forever:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&647_Forever'
+    lore: 
+    - '&x&F&A&1&6&6&9我是粘液小虫'
+    material_type: mc
+    material: DIAMOND_BLOCK
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_ldbdhj:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6ldbdhj'
+    lore: 
+    - '&x&F&A&1&6&6&9乱序大蛇，归位！'
+    material_type: skull_hash
+    material: 31e1ffad3870aac553b8d8c4a64166ef7ee0fdf71552ab3ef2f446b287decdc5
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_MuYan:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6MuYan'
+    lore: 
+    - '&x&F&A&1&6&6&9为数不多的粘液&d女&k&x&F&A&1&6&6&9玩家'
+    material_type: mc
+    material: PINK_STAINED_GLASS
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_xiu:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6xiu'
+    lore: 
+    - '&x&F&A&1&6&6&9曾经的粘液大蛇'
+    material_type: skull_hash
+    material: 9eaaa4762b31e953c5da67d41cc368a682e4c53dfac8ee9cb6eb7bf20c35cb82
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_Cang_Yan:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6Cang_Yan'
+    lore: 
+    - '&x&F&A&1&6&6&9手搓天空之城！'
+    material_type: mc
+    material: DIAMOND_BLOCK
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_J_ump:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6J_ump'
+    lore: 
+    - '&x&F&A&1&6&6&9EpoThch作者'
+    material_type: mc
+    material: COMMAND_BLOCK
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_woshisheny:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6woshisheny'
+    lore: 
+    - '&x&F&A&1&6&6&9新世界服务器腐竹'
+    - '&x&F&A&1&6&6&9qq群号：279090204'
+    material_type: mc
+    material: DIAMOND_BLOCK
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_Elysia1437:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&#ffb1ea&lElysia1437'
+    lore: 
+      - '&#ffa3e6爱&#ffaae8莉&#ffb1ea爱&#ffb8ed莉&#ffbfef爱&#ffc6f1!'
+    material_type: skull_hash
+    material: 4a26f0d676c67ca7dda60e3ef409dc0a4d8351640bcf8677f2ffddba8cbb8337
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_Hanling_000:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6Hanling_000'
+    lore: 
+      - '&x&F&A&1&6&6&9帅！寒岭 帅！'
+    material_type: skull_hash
+    material: 980ccf3a116c167cee585988f05c0f57e9ca1facbd660604627c4d830af288b6
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_playerocket:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6playerocket'
+    lore: 
+      - '&x&F&A&1&6&6&9摸鱼鱼天羽'
+    material_type: skull_hash
+    material: 2e8c4f29e4c4eab71def1267b71af2d6a4bf83a6649852a068115832225c626
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_VIvidLawyer4477:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6VIvidLawyer4477'
+    lore: 
+      - '&x&F&A&1&6&6&9なんでなんで？'
+    material_type: mc
+    material: BUDDING_AMETHYST
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_bbout_OWO:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6bbout_OWO'
+    lore: 
+      - '&x&F&A&1&6&6&9幻神'
+    material_type: skull_hash
+    material: 57cf99498c3f959fd0996bc3688b160e9d150c67d1c046a62a9167c4c436ab83
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_ElganP:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6ElganP'
+    lore: 
+      - '&x&F&A&1&6&6&9love_dove'
+    material_type: mc
+    material: GREEN_WOOL
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_Eric040391:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6Eric040391'
+    lore: 
+      - '&x&F&A&1&6&6&9这个人怎么查无此人啊'
+      - '&x&F&A&1&6&6&9原来是根本没钱买正版啊'
+    material_type: skull_hash
+    material: 9258242b20ae7a4c70ea1dc2242a8650fd8440c09709d2c803699cb85f99faca
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_guguguhello:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6guguguhello'
+    lore: 
+      - '&x&F&A&1&6&6&9666'
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS_PANE
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_muyiyangbuhuiwan:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6muyiyangbuhuiwan'
+    lore: 
+      - '&x&F&A&1&6&6&9粘液混子，没有一体机活不了'
+    material_type: mc
+    material: STRUCTURE_VOID
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_skyboy839:
+  lateInit: false
+  item_group: rsc_LengShang_LMJ
+  item:
+    name: '&6skyboy839'
+    lore: 
+      - '&x&F&A&1&6&6&9超级萌新,12年入坑,专业研究BUG(什么BUG，那是特性！)'
+    material_type: mc
+    material: COBWEB
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_TLXZQ
+      amount: 1
+LengShang_tinalnessdt:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6tinalness的头'
+    lore: 
+    - '&7让大香蕉保佑你！'
+    - '&7祈祷超新星和嬗变不会再炸了'
+    material_type: skull_hash
+    material: 73112785f64d814103931505ace00048c087337785550c99a67449c392b39772
+    amount: 1
+  placeable: true
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: LOGITECH_MATL114
+      amount: 1
+    2:
+      material_type: slimefun
+      material: LOGITECH_MATL114
+      amount: 1
+    3:
+      material_type: slimefun
+      material: LOGITECH_MATL114
+      amount: 1
+    4:
+      material_type: slimefun
+      material: LOGITECH_MATL114
+      amount: 1
+    5:
+      material_type: slimefun
+      material: LOGITECH_MATL114
+      amount: 1
+    6:
+      material_type: slimefun
+      material: LOGITECH_MATL114
+      amount: 1
+    7:
+      material_type: slimefun
+      material: LOGITECH_MATL114
+      amount: 1
+    8:
+      material_type: slimefun
+      material: LOGITECH_MATL114
+      amount: 1
+    9:
+      material_type: slimefun
+      material: LOGITECH_MATL114
+      amount: 1
+LengShang_ysyt:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6压缩以太'
+    lore: 
+    - '&716个以太压缩而成'
+    - '&7冷殇科技-以太一体机材料'
+    material_type: mc
+    material: BLACK_DYE
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: _FINALTECH_ETHER
+      amount: 16
+LengShang_yshuan:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6压缩环'
+    lore: 
+    - '&74个环压缩而成'
+    - '&7冷殇科技-以太一体机材料'
+    material_type: mc
+    material: BOWL
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: _FINALTECH_ANNULAR
+      amount: 4
+LengShang_cxxmnqkj:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&5压缩超新星模拟器框架'
+    lore: 
+    - '&751个超新星模拟器框架压缩而成'
+    - '&7冷殇科技-超新星模拟器材料'
+    material_type: mc
+    material: CHISELED_QUARTZ_BLOCK
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: LOGITECH_SOLAR_REACTOR_FRAME
+      amount: 51
+LengShang_cxxmnqfhz:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&5压缩超新星模拟器防护罩'
+    lore: 
+    - '&742个超新星模拟器防护罩压缩而成'
+    - '&7冷殇科技-超新星模拟器材料'
+    material_type: mc
+    material: BLACK_STAINED_GLASS
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: LOGITECH_SOLAR_REACTOR_GLASS
+      amount: 42
+LengShang_yssbjkj:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&5压缩元素嬗变机框架'
+    lore: 
+    - '&725个元素嬗变机框架压缩而成'
+    - '&7冷殇科技-元素嬗变机模拟器材料'
+    material_type: mc
+    material: SMOOTH_STONE
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: LOGITECH_TRANSMUTATOR_FRAME
+      amount: 25
+LengShang_yssbjfhz:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&5压缩元素嬗变机防护罩'
+    lore: 
+    - '&734个元素嬗变机防护罩压缩而成'
+    - '&7冷殇科技-元素嬗变机模拟器材料'
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: LOGITECH_TRANSMUTATOR_GLASS
+      amount: 34
+LengShang_yssbjrlb:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&5压缩元素嬗变机燃料棒'
+    lore: 
+    - '&748个原子合金核燃料棒压缩而成'
+    - '&7冷殇科技-元素嬗变机模拟器材料'
+    material_type: mc
+    material: REINFORCED_DEEPSLATE
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: LOGITECH_TRANSMUTATOR_ROD
+      amount: 48
+LengShang_jjcxxmnqkj:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e究极压缩超新星模拟器框架'
+    lore: 
+    - '&7102个超新星模拟器框架压缩而成'
+    - '&7冷殇科技-超新星模拟器材料'
+    material_type: mc
+    material: CHISELED_QUARTZ_BLOCK
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_cxxmnqkj
+      amount: 2
+LengShang_jjcxxmnqfhz:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e究极压缩超新星模拟器防护罩'
+    lore: 
+    - '&784个超新星模拟器防护罩压缩而成'
+    - '&7冷殇科技-超新星模拟器材料'
+    material_type: mc
+    material: BLACK_STAINED_GLASS
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_cxxmnqfhz
+      amount: 2
+LengShang_jjyssbjkj:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e究极压缩元素嬗变机框架'
+    lore: 
+    - '&7125个元素嬗变机框架压缩而成'
+    - '&7冷殇科技-元素嬗变机模拟器材料'
+    material_type: mc
+    material: SMOOTH_STONE
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_yssbjkj
+      amount: 5
+LengShang_jjyssbjfhz:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e究极压缩元素嬗变机防护罩'
+    lore: 
+    - '&7238个元素嬗变机防护罩压缩而成'
+    - '&7冷殇科技-元素嬗变机模拟器材料'
+    material_type: mc
+    material: LIGHT_GRAY_STAINED_GLASS
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_yssbjfhz
+      amount: 7
+LengShang_jjyssbjrlb:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e究极压缩元素嬗变机燃料棒'
+    lore: 
+    - '&7144个原子合金核燃料棒压缩而成'
+    - '&7冷殇科技-元素嬗变机模拟器材料'
+    material_type: mc
+    material: REINFORCED_DEEPSLATE
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: LengShang_yssbjrlb
+      amount: 3
+LengShang_jjystongd:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩铜锭'
+    lore: 
+    - '&7重金核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: mc
+    material: COPPER_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: slimefun
+      material: COPPER_INGOT
+      amount: 64
+LengShang_jjystd:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩铁锭'
+    lore: 
+    - '&7重金核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: mc
+    material: IRON_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: mc
+      material: IRON_INGOT
+      amount: 64
+LengShang_jjysjd:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩金锭'
+    lore: 
+    - '&7重金核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: mc
+    material: GOLD_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: mc
+      material: GOLD_INGOT
+      amount: 64
+LengShang_jjysxjhjd:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩下界合金锭'
+    lore: 
+    - '&7重金核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: mc
+    material: NETHERITE_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: mc
+      material: NETHERITE_INGOT
+      amount: 64
+LengShang_jjysmd:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩镁锭'
+    lore: 
+    - '&7精炼核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: slimefun
+    material: MAGNESIUM_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: slimefun
+      material: MAGNESIUM_INGOT
+      amount: 64
+LengShang_jjysqd:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩铅锭'
+    lore: 
+    - '&7精炼核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: slimefun
+    material: LEAD_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: slimefun
+      material: LEAD_INGOT
+      amount: 64
+LengShang_jjysxd:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩锡锭'
+    lore: 
+    - '&7精炼核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: slimefun
+    material: TIN_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: slimefun
+      material: TIN_INGOT
+      amount: 64
+LengShang_jjysxind:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩锌锭'
+    lore: 
+    - '&7精炼核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: slimefun
+    material: ZINC_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: slimefun
+      material: ZINC_INGOT
+      amount: 64
+LengShang_jjysyd:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩银锭'
+    lore: 
+    - '&7科技核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: slimefun
+    material: SILVER_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: slimefun
+      material: SILVER_INGOT
+      amount: 64
+LengShang_jjysld:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩铝锭'
+    lore: 
+    - '&7科技核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: slimefun
+    material: ALUMINUM_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: slimefun
+      material: ALUMINUM_INGOT
+      amount: 64
+LengShang_jjyszs:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩钻石'
+    lore: 
+    - '&7科技核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: mc
+    material: DIAMOND
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: mc
+      material: DIAMOND
+      amount: 64
+LengShang_jjyshsf:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩红石粉'
+    lore: 
+    - '&7科技核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: mc
+    material: REDSTONE
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: mc
+      material: REDSTONE
+      amount: 64
+LengShang_jjysmt:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩煤炭'
+    lore: 
+    - '&7物质核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: mc
+    material: COAL
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: mc
+      material: COAL
+      amount: 64
+LengShang_jjysqjs:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩青金石'
+    lore: 
+    - '&7物质核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: mc
+    material: LAPIS_LAZULI
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: mc
+      material: LAPIS_LAZULI
+      amount: 64
+LengShang_jjysxjsy:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩下界石英'
+    lore: 
+    - '&7物质核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: mc
+    material: QUARTZ
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: mc
+      material: QUARTZ
+      amount: 64
+LengShang_jjyslbs:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6究极压缩绿宝石'
+    lore: 
+    - '&7物质核心的合成材料之一'
+    - '&7冷殇科技-概念化序列模拟器材料'
+    material_type: mc
+    material: EMERALD
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_GNHXLMNQ
+  recipe:
+    5:
+      material_type: mc
+      material: EMERALD
+      amount: 64
+LengShang_YS1KDK:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6压缩电卡 - 1K'
+    lore: 
+    - '&750张电卡 - 1K压缩而成'
+    - '&7冷殇科技-电卡升级机材料'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_DKSJJ
+  recipe:
+    5:
+      material_type: slimefun
+      material: _FINALTECH_ENERGY_CARD_K
+      amount: 50
+LengShang_YS1MDK:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6压缩电卡 - 1M'
+    lore: 
+    - '&750张电卡 - 1M压缩而成'
+    - '&7冷殇科技-电卡升级机材料'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_DKSJJ
+  recipe:
+    5:
+      material_type: slimefun
+      material: _FINALTECH_ENERGY_CARD_M
+      amount: 50
+LengShang_YS1BDK:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6压缩电卡 - 1B'
+    lore: 
+    - '&750张电卡 - 1B压缩而成'
+    - '&7冷殇科技-电卡升级机材料'
+    material_type: mc
+    material: PAPER
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_DKSJJ
+  recipe:
+    5:
+      material_type: slimefun
+      material: _FINALTECH_ENERGY_CARD_B
+      amount: 50
+LengShang_YSQCL:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6压缩嵌齿轮'
+    lore: 
+    - '&716个嵌齿轮压缩而成'
+    - '&7用于自动化升级乱序四大运输'
+    material_type: mc
+    material: REDSTONE_TORCH
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 16
+LengShang_YSYXCA:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6压缩有序尘埃'
+    lore: 
+    - '&716个有序尘埃压缩而成'
+    - '&7用于自动化矩阵合成台物品'
+    material_type: mc
+    material: SLIME_BALL
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 16
+LengShang_YSKJK:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6压缩锟斤拷'
+    lore: 
+    - '&716个锟斤拷压缩而成'
+    - '&7用于自动化矩阵合成台物品'
+    material_type: mc
+    material: BONE_MEAL
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: _FINALTECH_BUG
+      amount: 16
+LengShang_YSZNKZHX:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&6压缩智能控制核心'
+    lore: 
+    - '&716个智能控制核心压缩而成'
+    - '&7冷殇科技-锻铸星辰材料'
+    material_type: slimefun
+    material: LOGITECH_CHIP_CORE
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSKJGZZ
+  recipe:
+    5:
+      material_type: slimefun
+      material: LOGITECH_CHIP_CORE
+      amount: 16
+LengShang_WJTL_YSTONGD:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩铜锭'
+    lore: 
+    - '&750个铜锭压缩而成'
+    - '&7铜奇点的原材料'
+    material_type: slimefun
+    material: COPPER_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: slimefun
+      material: COPPER_INGOT
+      amount: 50
+LengShang_WJTL_YSXIND:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩锌锭'
+    lore: 
+    - '&750个锌锭压缩而成'
+    - '&7锌奇点的原材料'
+    material_type: slimefun
+    material: ZINC_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: slimefun
+      material: ZINC_INGOT
+      amount: 50
+LengShang_WJTL_YSXD:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩锡锭'
+    lore: 
+    - '&750个锡锭压缩而成'
+    - '&7锡奇点的原材料'
+    material_type: slimefun
+    material: TIN_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: slimefun
+      material: TIN_INGOT
+      amount: 50
+LengShang_WJTL_YSLD:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩铝锭'
+    lore: 
+    - '&750个铝锭压缩而成'
+    - '&7铝奇点的原材料'
+    material_type: slimefun
+    material: ALUMINUM_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: slimefun
+      material: ALUMINUM_INGOT
+      amount: 50
+LengShang_WJTL_YSYD:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩银锭'
+    lore: 
+    - '&750个银锭压缩而成'
+    - '&7银奇点的原材料'
+    material_type: slimefun
+    material: SILVER_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: slimefun
+      material: SILVER_INGOT
+      amount: 50
+LengShang_WJTL_YSMD:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩镁锭'
+    lore: 
+    - '&750个镁锭压缩而成'
+    - '&7镁奇点的原材料'
+    material_type: slimefun
+    material: MAGNESIUM_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: slimefun
+      material: MAGNESIUM_INGOT
+      amount: 50
+LengShang_WJTL_YSQD:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩铅锭'
+    lore: 
+    - '&750个铅锭压缩而成'
+    - '&7铅奇点的原材料'
+    material_type: slimefun
+    material: LEAD_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: slimefun
+      material: LEAD_INGOT
+      amount: 50
+LengShang_WJTL_YSJD:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩金锭'
+    lore: 
+    - '&750个金锭压缩而成'
+    - '&7金奇点的原材料'
+    material_type: mc
+    material: GOLD_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: mc
+      material: GOLD_INGOT
+      amount: 50
+LengShang_WJTL_YSTIED:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩铁锭'
+    lore: 
+    - '&750个铁锭压缩而成'
+    - '&7铁奇点的原材料'
+    material_type: mc
+    material: IRON_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: mc
+      material: IRON_INGOT
+      amount: 50
+LengShang_WJTL_YSZS:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩钻石'
+    lore: 
+    - '&750个钻石压缩而成'
+    - '&7钻石奇点的原材料'
+    material_type: mc
+    material: DIAMOND
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: mc
+      material: DIAMOND
+      amount: 50
+LengShang_WJTL_YSLBS:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩绿宝石'
+    lore: 
+    - '&750个绿宝石压缩而成'
+    - '&7绿宝石奇点的原材料'
+    material_type: mc
+    material: EMERALD
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: mc
+      material: EMERALD
+      amount: 50
+LengShang_WJTL_YSXJHJD:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩下界合金锭'
+    lore: 
+    - '&750个下界合金锭压缩而成'
+    - '&7下界合金奇点的原材料'
+    material_type: mc
+    material: NETHERITE_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: mc
+      material: NETHERITE_INGOT
+      amount: 50
+LengShang_WJTL_YSMT:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩煤炭'
+    lore: 
+    - '&750个煤炭压缩而成'
+    - '&7煤炭奇点的原材料'
+    material_type: mc
+    material: COAL
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: mc
+      material: COAL
+      amount: 50
+LengShang_WJTL_YSHSF:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩红石粉'
+    lore: 
+    - '&750个红石粉压缩而成'
+    - '&7红石奇点的原材料'
+    material_type: mc
+    material: REDSTONE
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: mc
+      material: REDSTONE
+      amount: 50
+LengShang_WJTL_YSQJS:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩青金石'
+    lore: 
+    - '&750个青金石压缩而成'
+    - '&7青金石奇点的原材料'
+    material_type: mc
+    material: LAPIS_LAZULI
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: mc
+      material: LAPIS_LAZULI
+      amount: 50
+LengShang_WJTL_YSXJSY:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩下界石英'
+    lore: 
+    - '&750个下界石英压缩而成'
+    - '&7石英奇点的原材料'
+    material_type: mc
+    material: QUARTZ
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: mc
+      material: QUARTZ
+      amount: 50
+LengShang_WJTL_YSWJD:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&e压缩&e无&a尽&b锭'
+    lore: 
+    - '&750个&e无&a尽&b锭&7压缩而成'
+    - '&7无尽奇点的原材料'
+    material_type: slimefun
+    material: INFINITE_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: LENGSHANG_XX_LSPQDGZJ
+  recipe:
+    5:
+      material_type: slimefun
+      material: INFINITE_INGOT
+      amount: 50
+LengShang_JCJQKJMB:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&c基础机械框架模板'
+    lore: 
+    - '&7只是模板,并不能直接使用'
+    - '&7似乎还需要进一步加工...'
+    material_type: mc
+    material: STONE
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: STONE
+      amount: 1
+    2:
+      material_type: mc
+      material: CHAIN
+      amount: 1
+    3:
+      material_type: mc
+      material: STONE
+      amount: 1
+    4:
+      material_type: mc
+      material: CHAIN
+      amount: 1
+    5:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    6:
+      material_type: mc
+      material: CHAIN
+      amount: 1
+    7:
+      material_type: mc
+      material: STONE
+      amount: 1
+    8:
+      material_type: mc
+      material: CHAIN
+      amount: 1
+    9:
+      material_type: mc
+      material: STONE
+      amount: 1
+LengShang_DDCSQMB:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&c对点传输器模板'
+    lore: 
+    - '&7只是模板,并不能直接使用'
+    - '&7似乎还需要进一步加工...'
+    material_type: mc
+    material: END_ROD
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: TRIPWIRE_HOOK
+      amount: 1
+    2:
+      material_type: mc
+      material: CHAIN
+      amount: 1
+    3:
+      material_type: mc
+      material: TRIPWIRE_HOOK
+      amount: 1
+    4:
+      material_type: mc
+      material: STRING
+      amount: 1
+    5:
+      material_type: slimefun
+      material: _FINALTECH_BASIC_FRAME_MACHINE
+      amount: 1
+    6:
+      material_type: mc
+      material: STRING
+      amount: 1
+    7:
+      material_type: mc
+      material: TRIPWIRE_HOOK
+      amount: 1
+    8:
+      material_type: mc
+      material: CHAIN
+      amount: 1
+    9:
+      material_type: mc
+      material: TRIPWIRE_HOOK
+      amount: 1
+LengShang_WZCSQMB:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&c网状传输器模板'
+    lore: 
+    - '&7只是模板,并不能直接使用'
+    - '&7似乎还需要进一步加工...'
+    material_type: mc
+    material: TINTED_GLASS
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: HOPPER
+      amount: 1
+    2:
+      material_type: mc
+      material: TRIPWIRE_HOOK
+      amount: 1
+    3:
+      material_type: mc
+      material: CHAIN
+      amount: 1
+    4:
+      material_type: mc
+      material: HOPPER
+      amount: 1
+    5:
+      material_type: slimefun
+      material: _FINALTECH_BASIC_FRAME_MACHINE
+      amount: 1
+    6:
+      material_type: mc
+      material: STRING
+      amount: 1
+    7:
+      material_type: mc
+      material: HOPPER
+      amount: 1
+    8:
+      material_type: mc
+      material: TRIPWIRE_HOOK
+      amount: 1
+    9:
+      material_type: mc
+      material: CHAIN
+      amount: 1
+LengShang_LSCSQMB:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&c链式传输器模板'
+    lore: 
+    - '&7只是模板,并不能直接使用'
+    - '&7似乎还需要进一步加工...'
+    material_type: mc
+    material: DROPPER
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: STRING
+      amount: 1
+    2:
+      material_type: mc
+      material: TRIPWIRE_HOOK
+      amount: 1
+    3:
+      material_type: mc
+      material: STRING
+      amount: 1
+    4:
+      material_type: mc
+      material: TRIPWIRE_HOOK
+      amount: 1
+    5:
+      material_type: slimefun
+      material: _FINALTECH_BASIC_FRAME_MACHINE
+      amount: 1
+    6:
+      material_type: mc
+      material: TRIPWIRE_HOOK
+      amount: 1
+    7:
+      material_type: mc
+      material: CHEST
+      amount: 1
+    8:
+      material_type: mc
+      material: CHEST
+      amount: 1
+    9:
+      material_type: mc
+      material: CHEST
+      amount: 1
+LengShang_ZBCSQMB:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&c坐标传输器模板'
+    lore: 
+    - '&7只是模板,并不能直接使用'
+    - '&7似乎还需要进一步加工...'
+    material_type: mc
+    material: NOTE_BLOCK
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: CHAIN
+      amount: 1
+    2:
+      material_type: mc
+      material: CHEST
+      amount: 1
+    3:
+      material_type: mc
+      material: CHAIN
+      amount: 1
+    4:
+      material_type: mc
+      material: TRIPWIRE_HOOK
+      amount: 1
+    5:
+      material_type: slimefun
+      material: _FINALTECH_BASIC_FRAME_MACHINE
+      amount: 1
+    6:
+      material_type: mc
+      material: TRIPWIRE_HOOK
+      amount: 1
+    7:
+      material_type: mc
+      material: TRIPWIRE_HOOK
+      amount: 1
+    8:
+      material_type: mc
+      material: STRING
+      amount: 1
+    9:
+      material_type: mc
+      material: TRIPWIRE_HOOK
+      amount: 1
+LengShang_JQCNKL1MB:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&c机器充能卡 - L1模板'
+    lore: 
+    - '&7只是模板,并不能直接使用'
+    - '&7似乎还需要进一步加工...'
+    material_type: mc
+    material: BRICK
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: _FINALTECH_UNORDERED_DUST
+      amount: 1
+    2:
+      material_type: slimefun
+      material: _FINALTECH_UNORDERED_DUST
+      amount: 1
+    3:
+      material_type: slimefun
+      material: _FINALTECH_UNORDERED_DUST
+      amount: 1
+    4:
+      material_type: slimefun
+      material: _FINALTECH_UNORDERED_DUST
+      amount: 1
+    5:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    6:
+      material_type: slimefun
+      material: _FINALTECH_UNORDERED_DUST
+      amount: 1
+    7:
+      material_type: slimefun
+      material: _FINALTECH_UNORDERED_DUST
+      amount: 1
+    8:
+      material_type: slimefun
+      material: _FINALTECH_UNORDERED_DUST
+      amount: 1
+    9:
+      material_type: slimefun
+      material: _FINALTECH_UNORDERED_DUST
+      amount: 1
+LengShang_JQGZKL1MB:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&c机器过载卡 - L1模板'
+    lore: 
+    - '&7只是模板,并不能直接使用'
+    - '&7似乎还需要进一步加工...'
+    material_type: mc
+    material: NETHER_BRICK
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    2:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    3:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    4:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    5:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    6:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    7:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    8:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    9:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+LengShang_DDCPKL1MB:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&c带电超频卡 - L1模板'
+    lore: 
+    - '&7只是模板,并不能直接使用'
+    - '&7似乎还需要进一步加工...'
+    material_type: mc
+    material: COPPER_INGOT
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    2:
+      material_type: slimefun
+      material: _FINALTECH_UNORDERED_DUST
+      amount: 1
+    3:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    4:
+      material_type: slimefun
+      material: _FINALTECH_UNORDERED_DUST
+      amount: 1
+    5:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    6:
+      material_type: slimefun
+      material: _FINALTECH_UNORDERED_DUST
+      amount: 1
+    7:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    8:
+      material_type: slimefun
+      material: _FINALTECH_UNORDERED_DUST
+      amount: 1
+    9:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+LengShang_YJJSPMB:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&c研究解锁票模板'
+    lore: 
+    - '&7只是模板,并不能直接使用'
+    - '&7似乎还需要进一步加工...'
+    material_type: mc
+    material: ENCHANTED_BOOK
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: LengShang_YSQCL
+      amount: 1
+    3:
+      material_type: slimefun
+      material: LengShang_YSQCL
+      amount: 1
+    4:
+      material_type: slimefun
+      material: LengShang_YSQCL
+      amount: 1
+    5:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    6:
+      material_type: slimefun
+      material: LengShang_YSQCL
+      amount: 1
+    8:
+      material_type: slimefun
+      material: _FINALTECH_UNORDERED_DUST
+      amount: 1
+LengShang_JCSDZMB:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&c基础射电桩模板'
+    lore: 
+    - '&7只是模板,并不能直接使用'
+    - '&7似乎还需要进一步加工...'
+    material_type: mc
+    material: DISPENSER
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ENERGY_CONNECTOR
+      amount: 1
+    3:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    4:
+      material_type: slimefun
+      material: ENERGY_CONNECTOR
+      amount: 1
+    5:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    6:
+      material_type: slimefun
+      material: ENERGY_CONNECTOR
+      amount: 1
+    7:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ENERGY_CONNECTOR
+      amount: 1
+    9:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+LengShang_CNSDZMB:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&c充能射电桩模板'
+    lore: 
+    - '&7只是模板,并不能直接使用'
+    - '&7似乎还需要进一步加工...'
+    material_type: mc
+    material: DISPENSER
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    2:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    3:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    4:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    5:
+      material_type: slimefun
+      material: _FINALTECH_NORMAL_ELECTRICITY_SHOOT_PILE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    7:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    8:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    9:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+LengShang_GZSDZMB:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&c过载射电桩模板'
+    lore: 
+    - '&7只是模板,并不能直接使用'
+    - '&7似乎还需要进一步加工...'
+    material_type: mc
+    material: DISPENSER
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    2:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    3:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    4:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    5:
+      material_type: slimefun
+      material: _FINALTECH_NORMAL_ELECTRICITY_SHOOT_PILE
+      amount: 1
+    6:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    7:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    8:
+      material_type: slimefun
+      material: _FINALTECH_ORDERED_DUST
+      amount: 1
+    9:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+LengShang_CCJHDKMB:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&c存储交互端口模板'
+    lore: 
+    - '&7只是模板,并不能直接使用'
+    - '&7似乎还需要进一步加工...'
+    material_type: mc
+    material: BOOKSHELF
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: mc
+      material: STONE
+      amount: 1
+    2:
+      material_type: mc
+      material: STONE
+      amount: 1
+    3:
+      material_type: mc
+      material: STONE
+      amount: 1
+    4:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    5:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    6:
+      material_type: slimefun
+      material: _FINALTECH_GEARWHEEL
+      amount: 1
+    7:
+      material_type: mc
+      material: STONE
+      amount: 1
+    8:
+      material_type: mc
+      material: STONE
+      amount: 1
+    9:
+      material_type: mc
+      material: STONE
+      amount: 1
+LengShang_TLXZQ:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&x&F&E&3&C&3&C头&x&F&A&1&6&6&9颅&x&E&5&1&C&9&3选&x&F&E&3&C&3&C择&x&F&A&1&6&6&9器'
+    lore: 
+    - '&7现在，选择属于你的头颅吧！'
+    material_type: skull_hash
+    material: 20b13024045c5c0d6d2afb059ae9660f7ad020fd895bb75f64fcc02ddb07d327
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    4:
+      material_type: slimefun
+      material: LOGITECH_MATL114
+      amount: 1
+    5:
+      material_type: slimefun
+      material: LOGITECH_MATL114
+      amount: 1
+    6:
+      material_type: slimefun
+      material: LOGITECH_MATL114
+      amount: 1
+LengShang_SCQHX:
+  lateInit: false
+  item_group: rsc_LengShang_cl
+  item:
+    name: '&x&F&E&3&C&3&C生成器核心'
+    lore: 
+    - '&x&E&5&1&C&9&3用于制作大部分生成器'
+    material_type: skull_hash
+    material: e8f5dc927923279127a9d2ade86432f9877609cb9f83854a5b892bf7cad9df2f
+    amount: 1
+  placeable: false
+  recipe_type: ENHANCED_CRAFTING_TABLE
+  recipe:
+    1:
+      material_type: slimefun
+      material: NICKEL_INGOT
+      amount: 1
+    2:
+      material_type: slimefun
+      material: ELECTRO_MAGNET
+      amount: 1
+    3:
+      material_type: slimefun
+      material: COBALT_INGOT
+      amount: 1
+    4:
+      material_type: slimefun
+      material: DAMASCUS_STEEL_INGOT
+      amount: 1
+    5:
+      material_type: slimefun
+      material: MEDIUM_CAPACITOR
+      amount: 1
+    6:
+      material_type: slimefun
+      material: DAMASCUS_STEEL_INGOT
+      amount: 1
+    7:
+      material_type: slimefun
+      material: BASIC_CIRCUIT_BOARD
+      amount: 1
+    8:
+      material_type: slimefun
+      material: ADVANCED_CIRCUIT_BOARD
+      amount: 1
+    9:
+      material_type: slimefun
+      material: BASIC_CIRCUIT_BOARD
+      amount: 1
+LengShang_创世神:
+  lateInit: false
+  item_group: rsc_LengShang_zhongzhang
+  item:
+    name: '&a&l&k12&r{#00FF7F}创世神&a&l&k34&r'
+    lore: 
+    - '&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技&6的毕业象征'
+    - '&e能做到这一步的寥寥无几'
+    - '&d恭喜毕业&x&F&E&3&C&3&C冷&x&F&A&1&6&6&9殇&x&E&5&1&C&9&3科&x&B&C&3&B&B&7技'
+    material_type: mc
+    material: PINK_GLAZED_TERRACOTTA
+    amount: 1
+  placeable: false
+  recipe_type: SMELTERY
+  recipe:
+    1:
+      material_type: slimefun
+      material: _FINALTECH_PHONY
+      amount: 64
+    2:
+      material_type: slimefun
+      material: _FINALTECH_MATRIX_REACTOR
+      amount: 64
+    3:
+      material_type: slimefun
+      material: _FINALTECH_MATRIX_OPERATION_ACCELERATOR
+      amount: 64
+    4:
+      material_type: slimefun
+      material: INFINITY_ALL_IN_ONE_MACHINE_3
+      amount: 64
+    5:
+      material_type: slimefun
+      material: MAN_MADE_UNIVERSE_PLUS
+      amount: 64
+    6:
+      material_type: slimefun
+      material: MAN_MADE_UNIVERSE
+      amount: 64
+    7:
+      material_type: slimefun
+      material: LOGITECH_FINAL_STACKMACHINE
+      amount: 64
+    8:
+      material_type: slimefun
+      material: LOGITECH_FINAL_STACKMGENERATOR
+      amount: 64
+    9:
+      material_type: slimefun
+      material: LOGITECH_RAND_EDITOR
+      amount: 64
